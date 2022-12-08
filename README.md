@@ -1,5 +1,5 @@
 # Sorting-Algorithms
-
+Each Algorithm contains detailed README file that cointains an informative description of the Algorithm, and how works.
 ___
 ## Table of contents
 
